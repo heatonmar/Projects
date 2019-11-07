@@ -1,2 +1,2 @@
 # Projects
-All academic projects included
+All peronal/academic projects included
